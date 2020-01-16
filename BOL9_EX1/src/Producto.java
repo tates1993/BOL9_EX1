@@ -4,7 +4,7 @@ public class Producto{
 		private float precio;
 		private int unidades;
 		
-
+		///////
 		public Producto(String nombre, float precio, int unidades) {
 	
 			this.setNombre(nombre);
